@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Varela Round', sans-serif;
+}
+
+h3 {
+    text-align: center;
+    font-size: 22px;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+p {
+    text-align: center;
+    /* I went with this but decided that it looks better with a background color instead
+    border: 3px solid #151515;
+    border-radius: 10px; */
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+}
+
+ul {
+    text-align: left;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+}
+
+img {
+    width: 80vw;
+}
